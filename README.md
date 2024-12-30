@@ -34,14 +34,4 @@ The project uses [mention the main model used, e.g., Random Forest Regression]. 
 2.  Open the Jupyter Notebook: `jupyter notebook Diamond_Price_Prediction.ipynb`
 3.  Run the cells in the notebook.
 
-## Dataset
 
-[Mention where the dataset came from. If from Kaggle, say 'Dataset from Kaggle: [Kaggle Dataset URL]'. If it's your own, briefly describe it.]
-
-## Author
-
-[Your Name]
-
-## License
-
-[Choose a license, e.g., MIT License. If you don't want to use a license, you don't have to include this section. For example: `MIT License`]
